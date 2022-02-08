@@ -1,0 +1,13 @@
+Task2. Daxil Edilen Mobil Nomrenin Azerbaycan Nomre Standartina Uygun Oldugnu Yoxlayan RegularExpression
+
++994512373434 
+
+^\W[1-9]+$
+
+Task1.Daxil Edilen Ayin Tarixi Yoxlayan Regular Expression 
+
+08.10.2020 
+
+^([0-2][0-9]|(3)[0-1])(\.)(((0)[0-9])|((1)[0-2]))(\.)\d{4}$
+
+
